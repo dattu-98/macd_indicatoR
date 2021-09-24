@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+matplotlib
+streamlit
+nsepy
+termcolor
+gunicorn
